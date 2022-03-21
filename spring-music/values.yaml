@@ -8,3 +8,4 @@ pods:
 food:
   drink: beer
   eat: Peanut Butter and Jelly sandwich
+cluster: local
